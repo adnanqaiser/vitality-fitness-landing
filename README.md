@@ -1,4 +1,6 @@
-
+<<div align="center">
+<img width="1200" height="475" alt="Vitality Fitness Watch Banner" src="https://images.unsplash.com/photo-1557124816-e9b7d5440de2?q=80&w=1200&h=475&auto=format&fit=crop" />
+</div>
 
 # Vitality - Premium Fitness Watch Landing Page
 
