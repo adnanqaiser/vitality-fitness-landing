@@ -17,7 +17,7 @@ A high-performance, conversion-focused landing page for a modern fitness wearabl
 * [cite_start]**Styling:** Tailwind CSS [cite: 1, 11]
 * [cite_start]**Deployment:** Vercel [cite: 1, 13, 24]
 
-## 💻 Run Locally
+## 💻 Run Locally 
 
 1. **Clone the repository:**
    ```bash
